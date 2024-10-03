@@ -28,3 +28,10 @@
     -   "The Mummy" Record removed from Database;
     -   Seeded Records inserted into Database;
 -   Project pushed to ORIGIN;
+
+---
+
+-   Repo Branch (4) Initialized;
+-   Project: Razor Pages - Movie Filter; Part 5 Completed;
+    -   Catch methods tested via BREAKPOINT for successful function;
+-   Project pushed to ORIGIN;
