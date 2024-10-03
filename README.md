@@ -1,0 +1,3 @@
+-   Repo Initialized
+-   Remote Added
+-   Initial Project Folder Established
