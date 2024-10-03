@@ -17,6 +17,14 @@
 ---
 
 -   Repo Branch (2) Initialized;
--   Project: Razor Pages - Movie Filter; Part 2 Completed;
+-   Project: Razor Pages - Movie Filter; Part 3 Completed;
     -   WARNING: Network Restrictions issue resolved. See OneNote for additional details;
+-   Project pushed to ORIGIN;
+
+---
+
+-   Repo Branch (3) Initialized;
+-   Project: Razor Pages - Movie Filter; Part 4 Completed;
+    -   "The Mummy" Record removed from Database;
+    -   Seeded Records inserted into Database;
 -   Project pushed to ORIGIN;
