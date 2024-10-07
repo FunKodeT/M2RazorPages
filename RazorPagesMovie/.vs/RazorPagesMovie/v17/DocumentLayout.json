@@ -70,23 +70,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 10,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Delete.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\coote\\Documents\\Coding\\CourseWork\\7_TESD1440_C-Sharp_Programming_I\\M2\\P3\\RazorPagesMovie\\Pages\\Movies\\Delete.cshtml.cs",
-              "RelativeDocumentMoniker": "Pages\\Movies\\Delete.cshtml.cs",
-              "ToolTip": "C:\\Users\\coote\\Documents\\Coding\\CourseWork\\7_TESD1440_C-Sharp_Programming_I\\M2\\P3\\RazorPagesMovie\\Pages\\Movies\\Delete.cshtml.cs",
-              "RelativeToolTip": "Pages\\Movies\\Delete.cshtml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-03T21:47:57.134Z"
             },
             {
               "$type": "Document",
@@ -134,8 +122,7 @@
               "RelativeToolTip": "Pages\\Movies\\Edit.cshtml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-03T21:47:56.906Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-03T21:47:56.906Z"
             },
             {
               "$type": "Document",
@@ -181,7 +168,7 @@
               "RelativeDocumentMoniker": "Pages\\Movies\\Index.cshtml.cs",
               "ToolTip": "C:\\Users\\coote\\Documents\\Coding\\CourseWork\\7_TESD1440_C-Sharp_Programming_I\\M2\\P3\\RazorPagesMovie\\Pages\\Movies\\Index.cshtml.cs",
               "RelativeToolTip": "Pages\\Movies\\Index.cshtml.cs",
-              "ViewState": "AgIAABoAAAAAAAAAAAAwwCcAAAA5AAAAAAAAAA==",
+              "ViewState": "AgIAABoAAAAAAAAAAAA9wDIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-03T21:47:57.245Z",
               "EditorCaption": ""
@@ -194,10 +181,22 @@
               "RelativeDocumentMoniker": "Pages\\Movies\\Index.cshtml",
               "ToolTip": "C:\\Users\\coote\\Documents\\Coding\\CourseWork\\7_TESD1440_C-Sharp_Programming_I\\M2\\P3\\RazorPagesMovie\\Pages\\Movies\\Index.cshtml",
               "RelativeToolTip": "Pages\\Movies\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAALAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-10-03T21:47:57.191Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Delete.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\coote\\Documents\\Coding\\CourseWork\\7_TESD1440_C-Sharp_Programming_I\\M2\\P3\\RazorPagesMovie\\Pages\\Movies\\Delete.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Movies\\Delete.cshtml.cs",
+              "ToolTip": "C:\\Users\\coote\\Documents\\Coding\\CourseWork\\7_TESD1440_C-Sharp_Programming_I\\M2\\P3\\RazorPagesMovie\\Pages\\Movies\\Delete.cshtml.cs",
+              "RelativeToolTip": "Pages\\Movies\\Delete.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T21:47:57.134Z"
             },
             {
               "$type": "Document",

@@ -44,3 +44,7 @@
     -   Commited Index.cshtml "{searchString?}" Model Binding Method;
 
 ---
+
+-   Project: Razor Pages - Movie Filter; Part 6 Completed;
+    -   Removed Index.cshtml "{searchString?}" Model Binding Method in this Version;
+-   Project pushed to ORIGIN;
