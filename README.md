@@ -48,3 +48,11 @@
 -   Project: Razor Pages - Movie Filter; Part 6 Completed;
     -   Removed Index.cshtml "{searchString?}" Model Binding Method in this Version;
 -   Project pushed to ORIGIN;
+
+---
+
+-   Repo Branch (6) Initialized;
+-   Project: Razor Pages - Movie Filter; Part 7 Completed;
+    -   Build Compiled;
+    -   "The Mummy" Added to Database;
+-   Project pushed to ORIGIN;
