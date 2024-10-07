@@ -56,3 +56,11 @@
     -   Build Compiled;
     -   "The Mummy" Added to Database;
 -   Project pushed to ORIGIN;
+
+---
+
+-   Repo Branch (7) Initialized;
+-   Project: Razor Pages - Movie Filter; Part 8 Completed;
+    -   Data Annotations condensed;
+    -   "The Mummy" Added to Database;
+-   Project pushed to ORIGIN;
