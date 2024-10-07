@@ -35,3 +35,12 @@
 -   Project: Razor Pages - Movie Filter; Part 5 Completed;
     -   Catch methods tested via BREAKPOINT for successful function;
 -   Project pushed to ORIGIN;
+
+---
+
+-   Repo Branch (5) Initialized;
+-   Commit 6.1;
+-   Project: Razor Pages - Movie Filter; Part 6 Not-Completed;
+    -   Commited Index.cshtml "{searchString?}" Model Binding Method;
+
+---
