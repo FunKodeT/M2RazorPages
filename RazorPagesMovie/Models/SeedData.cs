@@ -56,6 +56,14 @@ namespace RazorPagesMovie.Models
                             Genre = "Western",
                             Price = 3.99M,
                             Rating = "NA"
+                        },
+                        new Movie
+                        {
+                            Title = "The Mummy",
+                            ReleaseDate = DateTime.Parse("1999-5-7"),
+                            Genre = "Action",
+                            Price = 14.99M,
+                            Rating = "PG-13"
                         }
                     );
                 context.SaveChanges();

@@ -70,3 +70,8 @@
 -   Repo Branch (0) Merged with Branch (7);
 -   Project: Razor Pages - Movie Filter Completed;
 -   Project pushed to ORIGIN;
+
+---
+
+-   "The Mummy" added to SeedData.cs;
+-   Project pushed to ORIGIN;
